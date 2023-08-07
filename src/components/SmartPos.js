@@ -36,7 +36,7 @@ function SmartPos() {
           <div>
             <h6 className='pl-2'>
               <strong>
-                Smart<span style={{ color: 'darkRed' }}>POS</span>
+                Benjamin's <span style={{ color: 'darkRed' }}>Carwash</span>
               </strong>
             </h6>
           </div>
