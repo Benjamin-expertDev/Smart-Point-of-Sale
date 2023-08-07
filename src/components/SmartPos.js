@@ -4,12 +4,12 @@ function SmartPos() {
   const [showDialog, setShowDialog] = useState(false);
 
   const handleForgotPasswordClick = () => {
-    // Set the state to true to show the dialog
+    
     setShowDialog(true);
   };
 
   const handleCloseDialog = () => {
-    // Set the state to false to hide the dialog
+    
     setShowDialog(false);
   };
 
